@@ -2,8 +2,8 @@
 # Need to change to an appropriate Title sed in all setting and paraeters
 title: Services
 description: "We optimize privacy compliance, building personal data security into the fabric of your organization, fostering consumer trust, fuelling growth and innovation."
-title_name: dario.com
-author: dario.com Staff
+title_name: priv360.com
+author: Priv360 Staff
 # Language format language_TERRITORY. Default is en_US
 lang: en_US
 # website logos, images & icons
@@ -12,23 +12,23 @@ logo: img/chklst.png
 image: "img/home.jpg"
 # urls
 baseurl: "/services"
-url: "https://dario.com"
+url: "https://priv360.com"
 
 # copyright text in footer
-copyright_name: dario.com
+copyright_name: Priv360
 
 # email address
 email: contact@dario.com
 email_username: contact@dario.com
 # email address in privacy policy
-email_privacy: privacy@dario.com
+email_privacy: privacy@priv360.com
 
 # change tracking id for dario.com
-google_tracking_id: UA-98131817-2
+google_tracking_id:
 
 # verify before moving to dario.com
 webmaster_verifications:
-  google: DQehZZh2Dx2G-CEfmIed3hixR8DokYqvKiJwWcn5IiM
+  google: 
   bing:
   alexa:
   yandex:
