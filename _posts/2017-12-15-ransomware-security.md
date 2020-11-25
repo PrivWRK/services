@@ -21,7 +21,7 @@ Ransomware is a type of malware that, when it infects computers, restricts user 
 
 ### Cyber-attacks are neither industry nor sector specific
 
-Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/discovery.md %}) is a recommended approach to protect an organization from a wide variety of risks:
+Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{/discovery) is a recommended approach to protect an organization from a wide variety of risks:
 
 * **Identify risk —** Carry out a risk assessment
 * **Define security and privacy policies —** Reflect the objectives set by management
