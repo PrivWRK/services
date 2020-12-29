@@ -23,12 +23,11 @@ email_username: contact@dario.com
 # email address in privacy policy
 email_privacy: privacy@priv360.com
 
-# change tracking id for dario.com
-google_tracking_id:
+# change tracking id to Priv360.com
+google_tracking_id: UA-98131817-5
 
-# verify before moving to dario.com
 webmaster_verifications:
-  google: G-384D33NCB2
+  google: 
   bing:
   alexa:
   yandex:
